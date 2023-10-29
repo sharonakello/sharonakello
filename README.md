@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sharonakello
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning front end development
-- 💞️ I’m looking to collaborate on any available project to improve my knowledge and my skills
+- 🌱 I'm a front end development , HTML,JAVASCRIPT,CSS
 - 📫 How to reach me 8432244677
 
 <!---
